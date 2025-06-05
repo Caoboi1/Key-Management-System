@@ -1,16 +1,8 @@
 {
-  "keys": [
-    {
-      "key": "TOOL-5AEY-E4VJ",
-      "machine_id": "08735148aa049943d572717075766a30324a80184a8a55bd5ef2c532bf67eb91",
-      "created_at": "2025-06-05T17:33:51.295748",
-      "expires_at": "2025-07-05",
-      "last_used": "2025-06-05T17:37:35.168806"
-    }
-  ],
+  "keys": [],
   "metadata": {
-    "total_keys": 1,
-    "sync_timestamp": "2025-06-05T17:44:13.301097",
+    "total_keys": 0,
+    "sync_timestamp": "2025-06-05T17:44:32.081958",
     "version": "1.0"
   }
 }
