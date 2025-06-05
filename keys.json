@@ -1,8 +1,16 @@
 {
-  "keys": [],
+  "keys": [
+    {
+      "key": "TOOL-KHAM-RBZX",
+      "machine_id": null,
+      "created_at": "2025-06-05T17:50:51.297079",
+      "expires_at": "2025-07-05",
+      "last_used": null
+    }
+  ],
   "metadata": {
-    "total_keys": 0,
-    "sync_timestamp": "2025-06-05T17:44:32.081958",
+    "total_keys": 1,
+    "sync_timestamp": "2025-06-05T17:50:55.328143",
     "version": "1.0"
   }
 }
